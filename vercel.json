@@ -1,0 +1,7 @@
+{
+    "functions": {
+      "php-lib/setup.php": {
+        "runtime": "vercel-php@0.4.0"
+      }
+    }
+  }
